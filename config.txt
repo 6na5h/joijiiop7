@@ -1,4 +1,4 @@
-﻿token=NTAzNTY3MzQxODk3MTIxNzky.Dty-ng.YTtrWkkPZwwUl4nmdg_DAjZyAio
+token=NTAzNTY3MzQxODk3MTIxNzky.Dty-ng.YTtrWkkPZwwUl4nmdg_DAjZyAio
 owner=319587743699042305
 prefix= 7
 game= 7play
