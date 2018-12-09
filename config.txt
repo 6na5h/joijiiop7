@@ -1,6 +1,0 @@
-token=NTAzNTY3MzQxODk3MTIxNzky.Dt2lww.y-XCl9Lle11ANrBOT5WJMBUSHYE
-owner=319587743699042305
-prefix= 7
-game= 7play
-stayinchannel=true
-songinstatus=true 
